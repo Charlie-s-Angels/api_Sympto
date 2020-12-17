@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "temperatures",
+  "info": {
+    "name": "Temperature"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "temperature": {
+      "type": "decimal"
+    },
+    "timestamp": {
+      "type": "biginteger"
+    }
+  }
+}
