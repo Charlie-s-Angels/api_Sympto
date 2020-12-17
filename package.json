@@ -1,5 +1,5 @@
 {
-  "name": "postgres-heroku",
+  "name": "sympto-api",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -15,7 +15,7 @@
     "strapi-admin": "3.3.4",
     "strapi-utils": "3.3.4",
     "strapi-plugin-content-type-builder": "3.3.4",
-    "strapi-plugin-content-manager": "3.3.4",
+
     "strapi-plugin-users-permissions": "3.3.4",
     "strapi-plugin-email": "3.3.4",
     "strapi-plugin-upload": "3.3.4",
@@ -27,7 +27,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "770ca538-d520-4641-8f9f-e10c8f9a6a9c"
+    "uuid": "6dcdf0cb-9bbc-4e8b-a7d1-74f62158789d"
   },
   "engines": {
     "node": ">=10.16.0 <=14.x.x",
